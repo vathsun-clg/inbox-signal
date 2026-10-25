@@ -1,0 +1,41 @@
+email_id,subject,body,received_at,priority,intent
+syn-001,Production API is down,"The production API is unavailable for all customers. Please investigate immediately and post an incident update.",2026-10-14 08:10,Critical,Complaint
+syn-002,Security incident needs response,"We detected a suspected intrusion on the admin account. Please investigate the security incident and confirm containment today.",2026-10-14 09:05,Critical,Complaint
+syn-003,Approve emergency vendor access,"Immediate approval requested for emergency vendor access before the maintenance window.",2026-10-14 09:30,Critical,Approval
+syn-004,Customer data export deadline,"The regulator requested the customer data export. Please submit the signed package before 5 PM today.",2026-10-14 10:15,Critical,Request
+syn-005,Payment outage reported,"Checkout payments are failing across regions. Please diagnose the service outage and share the next update.",2026-10-15 07:45,Critical,Complaint
+syn-006,Board approval required today,"The board materials need approval today before the meeting begins.",2026-10-15 08:20,Critical,Approval
+syn-007,Account compromised alert,"A customer reports that their account may be compromised. Please investigate and contact them immediately.",2026-10-15 11:40,Critical,Complaint
+syn-008,Production database unavailable,"The production database is down and scheduled jobs are failing. Immediate action is required.",2026-10-16 06:55,Critical,Notification
+syn-009,Client escalation for tomorrow,"The client escalated a delivery issue. Please respond by tomorrow with a recovery plan.",2026-10-14 12:05,High,Request
+syn-010,Approve purchase order,"Could you approve the purchase order before Friday so procurement can release it?",2026-10-14 13:25,High,Approval
+syn-011,Incident follow-up meeting,"Please attend the incident follow-up meeting tomorrow at 10 AM.",2026-10-14 14:10,High,Meeting
+syn-012,Repeated invoice complaint,"The invoice is still incorrect after two corrections. Please review and resolve this issue.",2026-10-15 09:10,High,Complaint
+syn-013,Contract review requested,"Please review the renewal contract and send your comments by Thursday.",2026-10-15 10:30,High,Request
+syn-014,Customer launch blocker,"The launch is blocked by a missing integration response. Please investigate and update the customer.",2026-10-15 15:00,High,Complaint
+syn-015,Approve release checklist,"Please sign off the release checklist before the scheduled deployment.",2026-10-16 09:15,High,Approval
+syn-016,Operations sync invite,"Please join the operations sync call and bring the latest risk update.",2026-10-16 11:20,High,Meeting
+syn-017,Access request for review,"Could you review the access request and confirm whether the role is appropriate?",2026-10-14 15:20,Medium,Request
+syn-018,Quarterly planning session,"Please attend the quarterly planning session next week and review the attached agenda.",2026-10-14 16:10,Medium,Meeting
+syn-019,Policy update information,"We published an updated travel policy. Please read the summary when convenient.",2026-10-15 08:35,Medium,Information
+syn-020,Share budget details,"Could you provide the latest budget details for the planning deck?",2026-10-15 13:40,Medium,Request
+syn-021,Product feedback complaint,"The new export flow is confusing and creates extra steps for our team.",2026-10-15 14:20,Medium,Complaint
+syn-022,Review design proposal,"Please review the design proposal and leave comments before the next planning session.",2026-10-16 08:15,Medium,Request
+syn-023,Approval for team training,"Please approve the team training request before the end of the month.",2026-10-16 10:45,Medium,Approval
+syn-024,Partner information session,"The partner information session is scheduled for Wednesday. The calendar invitation will follow.",2026-10-16 12:10,Medium,Notification
+syn-025,Weekly service report,"The weekly service report is attached for your information.",2026-10-14 17:10,Low,Information
+syn-026,Office closure notice,"The office will be closed next Monday. No action is required.",2026-10-15 07:20,Low,Notification
+syn-027,Newsletter available,"The October newsletter is now available to read when you have time.",2026-10-15 12:25,Low,Information
+syn-028,Meeting notes shared,"Notes from yesterday's meeting are attached for reference.",2026-10-15 16:00,Low,Notification
+syn-029,No action needed reminder,"This is a routine reminder and is not urgent. No response is needed.",2026-10-16 07:30,Low,Notification
+syn-030,Product roadmap update,"Here is the latest product roadmap update for your awareness.",2026-10-16 09:45,Low,Information
+syn-031,Vendor contact details,"Sharing the vendor contact details for your records.",2026-10-16 13:00,Low,Information
+syn-032,Team social invitation,"You are invited to the team social next month. Attendance is optional.",2026-10-16 15:20,Low,Meeting
+syn-033,Please send tax form,"Could you send the completed tax form before Friday?",2026-10-17 08:10,Medium,Request
+syn-034,Service maintenance notification,"Planned maintenance will occur tonight from 10 PM to 11 PM. No response is required.",2026-10-17 09:00,Medium,Notification
+syn-035,Customer asks for information,"The customer asked for documentation about the new reporting feature.",2026-10-17 10:05,Medium,Information
+syn-036,Review support transcript,"Please review the support transcript and identify the main complaint.",2026-10-17 11:25,High,Complaint
+syn-037,Project kickoff invite,"Please attend the project kickoff meeting on Friday and bring your timeline.",2026-10-17 12:00,Medium,Meeting
+syn-038,Approve access renewal,"Could you approve the access renewal by tomorrow so the contractor can continue work?",2026-10-17 13:30,High,Approval
+syn-039,New terms announcement,"We are sharing updated terms for your information. No action is required.",2026-10-17 14:15,Low,Notification
+syn-040,Request a status update,"Please reply with the current status of the integration before 5 PM.",2026-10-17 15:00,High,Request
